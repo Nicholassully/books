@@ -1,0 +1,18 @@
+{
+  "Harry Potter":{
+    "author": "J K Rowling",
+    "published": "26 June 1997"
+  },
+  "James Bond":{
+    "author": "Ian Fleming",
+    "published": "28 Feb 1950"
+  },
+  "Pond":{
+    "author": "Fish pie",
+    "published": "21 april 2017"
+  },
+  "Gone with the wind":{
+    "author": "Victor Fleming",
+    "published": "December 15, 1939"
+  }
+}

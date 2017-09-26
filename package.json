@@ -1,0 +1,16 @@
+{
+  "name": "bookform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bookform.js",
+  "scripts": {
+    "start": "nodemon bookform",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5",
+    "express-formidable": "^1.0.0"
+  }
+}
